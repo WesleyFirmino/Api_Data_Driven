@@ -27,3 +27,8 @@ C:\dev\dotnet-core\Shop\obj\Debug\net5.0\Shop.dll
 C:\dev\dotnet-core\Shop\obj\Debug\net5.0\ref\Shop.dll
 C:\dev\dotnet-core\Shop\obj\Debug\net5.0\Shop.pdb
 C:\dev\dotnet-core\Shop\obj\Debug\net5.0\Shop.genruntimeconfig.cache
+C:\dev\dotnet-core\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\dev\dotnet-core\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\dev\dotnet-core\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\dev\dotnet-core\Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\dev\dotnet-core\Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
